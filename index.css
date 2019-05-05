@@ -1,7 +1,7 @@
 *{margin:0;padding:0}
 ul{margin:0 auto}
 ul li{min-width:200px;height:200px;float:left;list-style:none;position:relative;margin:25px}
-ul li:nth-child(1) div{width:200px;height:100px;background:#5f9ea0;border-radius:100px/50px;margin-top:50px}
+ul li:nth-child(1) div{width:200px;height:100px;background:red;border-radius:100px/50px;margin-top:50px}
 ul li:nth-child(2) div{width:0;height:0;border-left:100px solid transparent;border-right:100px solid transparent;border-bottom:200px solid red}
 ul li:nth-child(3) div{width:0;height:0;border-left:100px solid transparent;border-right:100px solid transparent;border-top:200px solid red}
 ul li:nth-child(4) div{width:0;height:0;border-top:100px solid transparent;border-right:200px solid red;border-bottom:100px solid transparent}
